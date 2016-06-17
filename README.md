@@ -18,7 +18,7 @@ The goal of this competition is to estimate the number of Useful votes a review 
 
 | Stage | Start  | End | Goals |
 | ------------- | ------------- | ------------- | ------------- |
-| 1 | 06/015/16  | 02/03/16  | Project Selection, Plan Discussion, |
+| 1 | 06/15/16  | 06/23/16  | Project Selection, Plan Discussion, |
 
 ## Resource
 - [Yelp Recruiting Competition](https://www.kaggle.com/c/yelp-recruiting)
