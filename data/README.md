@@ -6,7 +6,7 @@
 **注意配置自己的gitconif**
 data 路径 为  `/data/yelp_test_set/` 和 `/data/yelp_training_set`
 
-## In the training set:
+## In the training & test set:
 
 - 11,537 businesses
 - 8,282 checkin sets
